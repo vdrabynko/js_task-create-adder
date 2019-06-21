@@ -1,8 +1,8 @@
 {
-  "name": "js-task-boilerplate",
+  "name": "js-task-create-adder",
   "version": "1.0.0",
-  "description": "js task boilerplate",
-  "main": "src/sum.js",
+  "description": "js task for closers practice",
+  "main": "src/createAdder.js",
   "scripts": {
     "test": "jest",
     "lint": "eslint **/*.js"
