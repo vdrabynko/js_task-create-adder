@@ -1,4 +1,4 @@
-# Boilerplate for JS tasks
+# Create Adder
 
 **Read the guideline before start**
 
